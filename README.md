@@ -10,6 +10,12 @@ Notas y algoritmos para el curso de Organización y Métodos 2021-B
 ---
 ## Agenda
 1. [Fundamentos][1]
+1. [Rentabilidad][2]
+1. [Valor económico][3]
+1. [Evaluación][4]
 
 
-[1]: https://github.com/GiancarloBenavides/Analisis-Financiero/tree/main/fundamentos.ipynb
+[1]: https://github.com/GiancarloBenavides/Analisis-Financiero/tree/main/1-Analisis-financiero.ipynb
+[2]: https://github.com/GiancarloBenavides/Analisis-Financiero/tree/main/2-Interes.ipynb
+[3]: https://github.com/GiancarloBenavides/Analisis-Financiero/tree/main/3-Valor-economico.ipynb
+[4]: https://github.com/GiancarloBenavides/Analisis-Financiero/tree/main/4-Valoración-de-proyectos.ipynb
